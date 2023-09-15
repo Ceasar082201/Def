@@ -1,3 +1,5 @@
 Brgy.62-Homapon,Legazpi City Philippines
 Contact no. 09998359142
 Food: Lumpia
+Course: Bachelor of Science in Information Technology;Year: 3rd;
+Programming Languages learned: C++, Java, Python, PHP;
